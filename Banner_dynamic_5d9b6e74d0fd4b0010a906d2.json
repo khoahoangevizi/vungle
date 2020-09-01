@@ -1,0 +1,77 @@
+{
+	"ads": [{
+		"placement_reference_id": "BANNER2-0071076",
+		"ad_markup": {
+			"id": "5da4b329ec279e0001d9b733",
+			"campaign": "5c6c754b24581e0c99b4d05d|5d9b6e74d0fd4b0010a906d2|datasci--blr_20190601_view_cts_365_hdw_lat_explore04--success|5da4b329ec279e0001d9b733",
+			"app_id": "$0${\"app_id\":\"5c6c74bc8e47e00cabcd9ae4\",\"eventID\":\"5da4b329ec279e0001d9b733\"}",
+			"expiry": 1571679657,
+			"tpat": {
+				"moat": {
+					"is_enabled": false,
+					"extra_vast": ""
+				},
+				"clickUrl": ["ms-windows-store://pdp/?productid=9wzdncrdjfhp"],
+				"checkpoint.0": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=PERCENTAGE\u0026play_percentage=0", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=start"],
+				"checkpoint.25": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=PERCENTAGE\u0026play_percentage=0.25", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=firstQuartile"],
+				"checkpoint.50": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=PERCENTAGE\u0026play_percentage=0.5", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=midpoint"],
+				"checkpoint.75": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=PERCENTAGE\u0026play_percentage=0.75", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=thirdQuartile"],
+				"checkpoint.100": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=PERCENTAGE\u0026play_percentage=1", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=complete"],
+				"postroll.view": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=POSTROLL_VIEW", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=endcard_view"],
+				"postroll.click": ["https://apiqa.vungle.com/api/v5/new?app_id=5c6c73d75e80a00c9fb0b31e\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026conversion=1\u0026event_id=5da4b329ec279e0001d9b733", "https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=POSTROLL_CLICK", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=endcard_click"],
+				"video.close": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=VIDEO_CLOSE", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=video_close"],
+				"video.unmute": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=UNMUTE", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=unmute"],
+				"video.mute": ["https://ingest.vungle.com/tpat?event_id=5da4b329ec279e0001d9b733\u0026device_id=3ee2d5004d82eb31db7ea9b65cb3e515\u0026event_type=MUTE", "https://dsp.api.vungle.com/v1/tpat?event_id=5da4b329ec279e0001d9b733\u0026cid=5c6c754b24581e0c99b4d05d\u0026crid=5d9b6e74d0fd4b0010a906d2\u0026ifa=3ee2d5004d82eb31db7ea9b65cb3e515\u0026test=0\u0026os=windows\u0026event_type=mute"]
+			},
+			"delay": 0,
+			"showClose": 0,
+			"showCloseIncentivized": 0,
+			"countdown": 0,
+			"url": "",
+			"videoWidth": 0,
+			"videoHeight": 0,
+			"md5": "fake_md5",
+			"callToActionDest": "ms-windows-store://pdp/?productid=9wzdncrdjfhp",
+			"callToActionUrl": "ms-windows-store://pdp/?productid=9wzdncrdjfhp",
+			"adType": "vungle_mraid",
+			"templateURL": "https://s3.amazonaws.com/vungle2-cdn-qa/templates/d05178ffa27a80dcffbb3517dea6d4c2.zip",
+			"templateSettings": {
+				"normal_replacements": {
+					"APP_DESCRIPTION": "Vungle",
+					"APP_NAME": "WIN-Dynamic-Banner1",
+					"CTA_BUTTON_BACKGROUND": "#01b27a",
+					"CTA_BUTTON_TEXT": "Download",
+					"CTA_BUTTON_TYPE": "auto",
+					"VUNGLE_PRIVACY_URL": "https://vungle.com/privacy/",
+					"AUTO_LOCALIZE": "true",
+					"CTA_BUTTON_ICON": "download",
+					"CTA_BUTTON_URL": "https://www.microsoft.com/en-us/p/leps-world-run/9nln36v5th09?cid=msft_web_gamesforwindows_spotlight\u0026activetab=pivot:overviewtab",
+					"THEME": "dark",
+					"VUNGLE_PRIVACY_POSITION": "bottom_left"
+				},
+				"cacheable_replacements": {
+					"POWERED_BY_VUNGLE": {
+						"url": "https://cdn-lb.vungle.com/templates/defaults/img/vungle.svg",
+						"extension": "svg"
+					},
+					"APP_ICON": {
+						"url": "https://s3.amazonaws.com/vungle2-cdn-qa/assets/5c6c74bc8e47e00cabcd9ae4/2008d824f9fa4f7bfdc47e9e55f16fd0.jpg",
+						"extension": "jpg"
+					},
+					"APP_RATING": {
+						"url": "https://cdn-lb.vungle.com/templates/defaults/img/4.5-stars.svg",
+						"extension": "svg"
+					}
+				}
+			},
+			"templateId": "5d9b6402d0fd4b0010a90661",
+			"template_type": "banner",
+			"chk": "fake_chk",
+			"retryCount": 3,
+			"asyncThreshold": 40,
+			"ad_token": "eyJjYW1wYWlnbiI6IjVjNmM3NTRiMjQ1ODFlMGM5OWI0ZDA1ZHw1ZDliNmU3NGQwZmQ0YjAwMTBhOTA2ZDJ8ZGF0YXNjaS0tYmxyXzIwMTkwNjAxX3ZpZXdfY3RzXzM2NV9oZHdfbGF0X2V4cGxvcmUwNC0tc3VjY2Vzc3w1ZGE0YjMyOWVjMjc5ZTAwMDFkOWI3MzMifQ==",
+			"requires_sideloading": false,
+			"data_science_cache": ""
+		}
+	}]
+}
